@@ -1,4 +1,4 @@
-# redsoft
+Please, do not forget to run ```npm install``` after you've downloaded it, otherwise it won't work :) Webpack config is also included in this build
 
 ## Project setup
 ```
